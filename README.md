@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-[Click here to view the live project](https://your-username.github.io/noter/)  
+[Click here to view the live project](https://lk4nt5.csb.app/)  
 
 
 ---
